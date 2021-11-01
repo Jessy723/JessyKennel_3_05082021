@@ -1,0 +1,22 @@
+/* Police */
+
+@font-face
+{
+    font-family: "roboto";
+    src: url('../fonts/Raleway-VariableFont_wght.ttf');
+}
+
+/* Body police*/
+
+body
+{
+    font-family: "roboto", "sans-serif";
+}
+#bloc_page
+{
+    max-width: 1440px;
+    margin: auto;
+    justify-content: center;
+}
+
+/* Header */
